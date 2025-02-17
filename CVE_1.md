@@ -1,10 +1,10 @@
 # Vulnerability Title
-SQL Injection Vulnerability in Baiyiyun Asset Management System `/wuser/anyUserBoundHouse.php` Interface  
+SQL Injection Vulnerability in Baiyiyun Asset Management and Operations System `/wuser/anyUserBoundHouse.php` Interface  
 
 ---
 
 # Vulnerability Overview
-Hunan Zhonghe Baiyi Information Technology Co., Ltd. (referred to as **Baiyiyun**), founded in 2017, is a national high-tech enterprise dedicated to digital solutions in the real estate sector. The company provides comprehensive digital transformation services for residential, commercial, industrial, and public infrastructure sectors, aiming to enhance operational efficiency and reduce costs. The Baiyiyun Asset Management System was found to contain a **SQL injection vulnerability** in the `/wuser/anyUserBoundHouse.php` interface. Attackers can exploit this vulnerability by crafting malicious requests to inject SQL commands, bypassing normal query logic and directly manipulating the database. Successful exploitation may lead to sensitive data leakage (e.g., database names, user credentials) or even remote command execution and data tampering.  
+Hunan Zhonghe Baiyi Information Technology Co., Ltd. (referred to as **Baiyiyun**), founded in 2017, is a national high-tech enterprise dedicated to digital solutions in the real estate sector. The company provides comprehensive digital transformation services for residential, commercial, industrial, and public infrastructure sectors, aiming to enhance operational efficiency and reduce costs. The Baiyiyun Asset Management and Operations System was found to contain a **SQL injection vulnerability** in the `/wuser/anyUserBoundHouse.php` interface. Attackers can exploit this vulnerability by crafting malicious requests to inject SQL commands, bypassing normal query logic and directly manipulating the database. Successful exploitation may lead to sensitive data leakage (e.g., database names, user credentials) or even remote command execution and data tampering.  
 
 ---
 
